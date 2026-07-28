@@ -1,0 +1,13 @@
+nav{
+    background-color: blue;
+    color: white;
+    width: 100vw;
+    position: sticky;
+    top: 0;
+    display:flex;
+    
+}
+body{
+    height: 150vw;
+    margin:0;
+}
